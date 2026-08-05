@@ -7,12 +7,16 @@ Each scheduled run reads the last completed day here and generates the next one.
 - **Last run date:** 2026-08-05
 - **Stage:** Fundamentals (Days 1–15)
 
+## Conventions
+- **Branch naming:** each day's lesson is pushed to its own branch named `DayN` (e.g. `Day1`, `Day2`, ...) instead of the default session branch.
+- **Language:** lesson explanations (topic intro, grammar notes) are written in Korean (한글). Example sentences stay in English with Korean translations, as before.
+
 ## Stage Map
 - Days 1–15: Fundamentals — parts of speech, basic sentence structure, present/past/future tense, subject-verb agreement
 - Days 16–30: Intermediate — modal verbs, conditional sentences, passive voice, relative clauses, articles
 - Days 31–45: Advanced — subjunctive mood, complex sentence patterns, phrasal verbs, advanced tenses, stylistic grammar
 
 ## Lesson Log
-| Day | Topic | File |
-|-----|-------|------|
-| 1 | Parts of Speech | [lessons/day-01.md](lessons/day-01.md) |
+| Day | Topic | File | Branch |
+|-----|-------|------|--------|
+| 1 | Parts of Speech | [lessons/day-01.md](lessons/day-01.md) | `Day1` |
