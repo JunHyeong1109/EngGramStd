@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 2
+- **Last completed day:** 3
 - **Last run date:** 2026-08-06
-- **Next day to generate:** 3
+- **Next day to generate:** 4
 - **Stage:** Fundamentals (Days 1–15)
 
 ## Conventions
@@ -24,3 +24,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 |-----|-------|--------|
 | 1 | Parts of Speech | `Day1` |
 | 2 | Basic Sentence Structure | `Day2` |
+| 3 | Present Tense | `Day3` |
