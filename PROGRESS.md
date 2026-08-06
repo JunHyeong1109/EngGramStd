@@ -3,8 +3,8 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run reads the last completed day here and generates the next one.
 
-- **Last completed day:** 1
-- **Last run date:** 2026-08-05
+- **Last completed day:** 2
+- **Last run date:** 2026-08-06
 - **Stage:** Fundamentals (Days 1–15)
 
 ## Conventions
@@ -20,3 +20,4 @@ Each scheduled run reads the last completed day here and generates the next one.
 | Day | Topic | File | Branch |
 |-----|-------|------|--------|
 | 1 | Parts of Speech | [lessons/day-01.md](lessons/day-01.md) | `Day1` |
+| 2 | Basic Sentence Structure | [lessons/day-02.md](lessons/day-02.md) | `Day2` |
