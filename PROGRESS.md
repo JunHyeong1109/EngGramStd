@@ -19,5 +19,4 @@ Each scheduled run reads the last completed day here and generates the next one.
 ## Lesson Log
 | Day | Topic | File | Branch |
 |-----|-------|------|--------|
-| 1 | Parts of Speech | [lessons/day-01.md](lessons/day-01.md) | `Day1` |
 | 2 | Basic Sentence Structure | [lessons/day-02.md](lessons/day-02.md) | `Day2` |
