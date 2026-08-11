@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 7
-- **Last run date:** 2026-08-10
-- **Next day to generate:** 8
+- **Last completed day:** 8
+- **Last run date:** 2026-08-11
+- **Next day to generate:** 9
 - **Stage:** Fundamentals (Days 1–15)
 
 ## Conventions
@@ -29,3 +29,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 5 | Future Tense | `Day5` |
 | 6 | Subject-Verb Agreement | `Day6` |
 | 7 | Adjectives vs Adverbs | `Day7` |
+| 8 | Personal Pronoun Case | `Day8` |
