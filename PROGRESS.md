@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 11
-- **Last run date:** 2026-08-14
-- **Next day to generate:** 12
+- **Last completed day:** 12
+- **Last run date:** 2026-08-15
+- **Next day to generate:** 13
 - **Stage:** Fundamentals (Days 1–15)
 
 ## Conventions
@@ -33,3 +33,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 9 | Present Perfect Tense | `Day9` |
 | 10 | Countable vs Uncountable Nouns & Quantifiers | `Day10` |
 | 11 | Comparative and Superlative Adjectives | `Day11` |
+| 12 | Prepositions of Time, Place & Direction | `Day12` |
