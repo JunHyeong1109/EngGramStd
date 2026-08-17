@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 13
-- **Last run date:** 2026-08-16
-- **Next day to generate:** 14
+- **Last completed day:** 14
+- **Last run date:** 2026-08-17
+- **Next day to generate:** 15
 - **Stage:** Fundamentals (Days 1–15)
 
 ## Conventions
@@ -35,3 +35,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 11 | Comparative and Superlative Adjectives | `Day11` |
 | 12 | Prepositions of Time, Place & Direction | `Day12` |
 | 13 | Conjunctions (Coordinating & Subordinating) | `Day13` |
+| 14 | Gerunds and Infinitives | `Day14` |
