@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 17
-- **Last run date:** 2026-08-20
-- **Next day to generate:** 18
+- **Last completed day:** 18
+- **Last run date:** 2026-08-21
+- **Next day to generate:** 19
 - **Stage:** Intermediate (Days 16–30)
 
 ## Conventions
@@ -39,3 +39,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 15 | Articles (a/an/the) | `Day15` |
 | 16 | Modal Verbs | `Day16` |
 | 17 | Conditional Sentences | `Day17` |
+| 18 | Passive Voice | `Day18` |
