@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 19
-- **Last run date:** 2026-08-22
-- **Next day to generate:** 20
+- **Last completed day:** 20
+- **Last run date:** 2026-08-23
+- **Next day to generate:** 21
 - **Stage:** Intermediate (Days 16–30)
 
 ## Conventions
@@ -41,3 +41,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 17 | Conditional Sentences | `Day17` |
 | 18 | Passive Voice | `Day18` |
 | 19 | Relative Clauses | `Day19` |
+| 20 | Participles (v-ing vs v-ed) | `Day20` |
