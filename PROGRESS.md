@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 22
-- **Last run date:** 2026-08-25
-- **Next day to generate:** 23
+- **Last completed day:** 23
+- **Last run date:** 2026-08-26
+- **Next day to generate:** 24
 - **Stage:** Intermediate (Days 16–30)
 
 ## Conventions
@@ -44,3 +44,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 20 | Participles (v-ing vs v-ed) | `Day20` |
 | 21 | Noun Clauses (that/whether/if/wh-) | `Day21` |
 | 22 | Reported / Indirect Speech | `Day22` |
+| 23 | Adverbial Clauses (Reason/Concession/Purpose/Contrast) | `Day23` |
