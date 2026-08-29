@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 25
-- **Last run date:** 2026-08-28
-- **Next day to generate:** 26
+- **Last completed day:** 26
+- **Last run date:** 2026-08-29
+- **Next day to generate:** 27
 - **Stage:** Intermediate (Days 16–30)
 
 ## Conventions
@@ -47,3 +47,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 23 | Adverbial Clauses (Reason/Concession/Purpose/Contrast) | `Day23` |
 | 24 | Correlative Conjunctions (상관접속사) | `Day24` |
 | 25 | Parallel Structure (병렬 구조) | `Day25` |
+| 26 | Causative & Perception Verbs (사역동사/지각동사) | `Day26` |
