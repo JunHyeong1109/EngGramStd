@@ -3,10 +3,10 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 29
-- **Last run date:** 2026-09-01
-- **Next day to generate:** 30
-- **Stage:** Intermediate (Days 16–30)
+- **Last completed day:** 30
+- **Last run date:** 2026-09-02
+- **Next day to generate:** 31
+- **Stage:** Advanced (Days 31–45)
 
 ## Conventions
 - **Branch naming:** each day's lesson is pushed to its own branch named `DayN` (e.g. `Day1`, `Day2`, `Day3`, ...) instead of the default session branch.
@@ -51,3 +51,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 27 | Inversion (도치구문) | `Day27` |
 | 28 | Emphatic / Cleft Sentences (강조 구문) | `Day28` |
 | 29 | Participial Phrases (분사구문) | `Day29` |
+| 30 | Quantifiers & Subject-Verb Agreement (수량 표현과 수 일치) | `Day30` |
