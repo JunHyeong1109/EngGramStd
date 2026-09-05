@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 32
-- **Last run date:** 2026-09-04
-- **Next day to generate:** 33
+- **Last completed day:** 33
+- **Last run date:** 2026-09-05
+- **Next day to generate:** 34
 - **Stage:** Advanced (Days 31–45)
 
 ## Conventions
@@ -54,3 +54,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 30 | Quantifiers & Subject-Verb Agreement (수량 표현과 수 일치) | `Day30` |
 | 31 | Subjunctive Mood (가정법) | `Day31` |
 | 32 | Phrasal Verbs (구동사) | `Day32` |
+| 33 | Mixed Conditionals (혼합 가정법) | `Day33` |
