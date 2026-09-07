@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 34
-- **Last run date:** 2026-09-06
-- **Next day to generate:** 35
+- **Last completed day:** 35
+- **Last run date:** 2026-09-07
+- **Next day to generate:** 36
 - **Stage:** Advanced (Days 31–45)
 
 ## Conventions
@@ -56,3 +56,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 32 | Phrasal Verbs (구동사) | `Day32` |
 | 33 | Mixed Conditionals (혼합 가정법) | `Day33` |
 | 34 | Reduced Relative Clauses (관계사절의 분사구 축약) | `Day34` |
+| 35 | Perfect Progressive Tenses (완료진행형) | `Day35` |
