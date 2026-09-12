@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 39
-- **Last run date:** 2026-09-11
-- **Next day to generate:** 40
+- **Last completed day:** 40
+- **Last run date:** 2026-09-12
+- **Next day to generate:** 41
 - **Stage:** Advanced (Days 31–45)
 
 ## Conventions
@@ -61,3 +61,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 37 | Appositives (동격 구문) | `Day37` |
 | 38 | Formal Subject/Object it (가주어/가목적어) | `Day38` |
 | 39 | Nominalization (명사화) | `Day39` |
+| 40 | Absolute Constructions (독립분사구문) | `Day40` |
