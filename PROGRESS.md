@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 42
-- **Last run date:** 2026-09-14
-- **Next day to generate:** 43
+- **Last completed day:** 43
+- **Last run date:** 2026-09-15
+- **Next day to generate:** 44
 - **Stage:** Advanced (Days 31–45)
 
 ## Conventions
@@ -64,3 +64,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 40 | Absolute Constructions (독립분사구문) | `Day40` |
 | 41 | Comparative Correlatives (비교급 상관구문) | `Day41` |
 | 42 | Compound Relative Pronouns & Adverbs (복합관계사) | `Day42` |
+| 43 | Ellipsis (생략구문) | `Day43` |
