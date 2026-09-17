@@ -3,9 +3,9 @@
 This file tracks the current position in the 45-day English grammar progression.
 Each scheduled run should read the **Last completed day** below and generate the next day's lesson.
 
-- **Last completed day:** 44
-- **Last run date:** 2026-09-16
-- **Next day to generate:** 45
+- **Last completed day:** 45
+- **Last run date:** 2026-09-17
+- **Next day to generate:** none — the 45-day cycle is complete
 - **Stage:** Advanced (Days 31–45)
 
 ## Conventions
@@ -66,3 +66,4 @@ Each scheduled run should read the **Last completed day** below and generate the
 | 42 | Compound Relative Pronouns & Adverbs (복합관계사) | `Day42` |
 | 43 | Ellipsis (생략구문) | `Day43` |
 | 44 | Modal Perfect (조동사 + have p.p.) | `Day44` |
+| 45 | Preposition + Gerund Patterns (전치사 + 동명사 구문) | `Day45` |
